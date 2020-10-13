@@ -1,1 +1,1 @@
-# https://bengaluru-aqi-prediction.herokuapp.com/
+https://bengaluru-aqi-prediction.herokuapp.com/
